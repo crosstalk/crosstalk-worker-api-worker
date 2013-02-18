@@ -3,6 +3,8 @@ crosstalk-worker-api-worker
 
 `crosstalk-worker-api-worker` is a Crosstalk worker that implements the Crosstalk Worker API.
 
+_Click on links below for detailed documentation._
+
 ## Crosstalk Worker API
 
 [~crosstalk.api.worker.create](https://github.com/crosstalk/crosstalk-worker-api-worker/wiki/~crosstalk.api.worker.create) - Create new worker
